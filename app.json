@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Wazifa-e-Khas",
+    "slug": "Wazifa",
+    "androidStatusBar": {
+      "backgroundColor": "#292540",
+      "barStyle":"light-content" ,
+      "translucent": false
+    },
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.SocketIT.WazifaeKhas",
+      "versionCode": 3,
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3666457396600268~9133900208" 
+      }
+    },
+    "notification": {
+      "icon": "./assets/notification.png"
+    },
+    "description": "This application is designed to share wazifa on social apps."
+  }
+}

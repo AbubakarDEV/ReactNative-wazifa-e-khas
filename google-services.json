@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123983062859",
+    "project_id": "wazifa-e-khas",
+    "storage_bucket": "wazifa-e-khas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123983062859:android:6eabb086405ca26e912ace",
+        "android_client_info": {
+          "package_name": "com.SocketIT.WazifaeKhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123983062859-la4ekn7undg9ltkgqop9d1b31cuseen9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-w1lEomU8m2x0LpSxqyiKCI6OO05f9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123983062859-la4ekn7undg9ltkgqop9d1b31cuseen9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
